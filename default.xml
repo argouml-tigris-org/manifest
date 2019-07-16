@@ -1,0 +1,12 @@
+<manifest>
+  <remote name="github_gerrithub"
+	  fetch="https://github.com/argouml-tigris-org"
+	  review="ssh://review.gerrithub.io:29418/argouml-tigris-org"
+	  />
+  <default revision="refs/heads/master" remote="github_gerrithub" sync-j="2"/>
+  <project name="argouml" remote="github_gerrithub"/>
+  <project name="argouml-actionscript3" remote="github_gerrithub"/>
+  <project name="argouml-cpp" remote="github_gerrithub"/>
+  <project name="argouml-csharp" remote="github_gerrithub"/>
+  <project name="argouml-java" remote="github_gerrithub"/>
+</manifest>
