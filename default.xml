@@ -8,6 +8,36 @@
   <project name="argouml-actionscript3" remote="github_gerrithub"/>
   <project name="argouml-cpp" remote="github_gerrithub"/>
   <project name="argouml-csharp" remote="github_gerrithub"/>
+  <project name="argouml-idl" remote="github_gerrithub"/>
   <project name="argouml-java" remote="github_gerrithub"/>
+  <project name="argouml-php" remote="github_gerrithub"/>
+  <project name="argouml-sql" remote="github_gerrithub"/>
+
+  <!-- Less mature additions -->
+  <project name="argouml-andromda" remote="github_gerrithub"/>
+  <project name="argopdf" remote="github_gerrithub"/>
+  <project name="argouml-enki" remote="github_gerrithub"/>
+  <project name="argouml-graphviz" remote="github_gerrithub"/>
+  <project name="argouml-model-checker" remote="github_gerrithub"/>
+  <project name="argouml-pattern-wizard" remote="github_gerrithub"/>
+  <project name="argouml-xsd" remote="github_gerrithub"/>
+  <project name="argouml-xtuml" remote="github_gerrithub"/>
+  <project name="argouml-ruby" remote="github_gerrithub"/>
+  <project name="argouml-db" remote="github_gerrithub"/>
+
+  <!-- Internationalization efforts -->
+  <project name="argouml-i18n-de" remote="github_gerrithub"/>
+  <project name="argouml-i18n-es" remote="github_gerrithub"/>
+  <project name="argouml-i18n-en-gb" remote="github_gerrithub"/>
+  <project name="argouml-i18n-fr" remote="github_gerrithub"/>
+  <project name="argouml-i18n-it" remote="github_gerrithub"/>
+  <project name="argouml-i18n-nb" remote="github_gerrithub"/>
+  <project name="argouml-i18n-pt" remote="github_gerrithub"/>
+  <project name="argouml-i18n-pt-br" remote="github_gerrithub"/>
+  <project name="argouml-i18n-ro" remote="github_gerrithub"/>
+  <project name="argouml-i18n-ru" remote="github_gerrithub"/>
+  <project name="argouml-i18n-sv" remote="github_gerrithub"/>
+  <project name="argouml-i18n-zh" remote="github_gerrithub"/>
+
   <project name="argouml-documentation" remote="github_gerrithub"/>
 </manifest>
