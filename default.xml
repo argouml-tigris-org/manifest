@@ -9,4 +9,5 @@
   <project name="argouml-cpp" remote="github_gerrithub"/>
   <project name="argouml-csharp" remote="github_gerrithub"/>
   <project name="argouml-java" remote="github_gerrithub"/>
+  <project name="argouml-documentation" remote="github_gerrithub"/>
 </manifest>
