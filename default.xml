@@ -40,5 +40,9 @@
   <project name="argouml-i18n-sv" remote="github_gerrithub"/>
   <project name="argouml-i18n-zh" remote="github_gerrithub"/>
 
+  <!-- Documentation -->
   <project name="argouml-documentation" remote="github_gerrithub"/>
+
+  <!-- tools -->
+  <project name="test-i18n-properties" remote="github_gerrithub"/>
 </manifest>
