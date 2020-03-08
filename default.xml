@@ -45,4 +45,5 @@
 
   <!-- tools -->
   <project name="test-i18n-properties" remote="github_gerrithub"/>
+  <project name="testmodels" remote="github_gerrithub"/>
 </manifest>
