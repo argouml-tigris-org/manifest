@@ -15,6 +15,7 @@
   <project name="argouml-sql" remote="github_gerrithub"/>
 
   <!-- Less mature additions -->
+  <project name="argoprint" remote="github_gerrithub"/>
   <project name="argouml-andromda" remote="github_gerrithub"/>
   <project name="argopdf" remote="github_gerrithub"/>
   <project name="argouml-enki" remote="github_gerrithub"/>
